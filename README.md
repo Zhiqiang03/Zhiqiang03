@@ -34,6 +34,9 @@
 
 
 
+
+
+
 ### Other Misc:
 ARM Assembly, Microsoft Excel, Microsoft Word, Powerpoint, Access, Autodesk Fusion 360, Autodesk CAD,
 
@@ -46,7 +49,7 @@ ARM Assembly, Microsoft Excel, Microsoft Word, Powerpoint, Access, Autodesk Fusi
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 <br />
 
-
+<!--
 <h2 align="center"> Stats </h2>
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhiqiang03"/>
@@ -55,7 +58,7 @@ ARM Assembly, Microsoft Excel, Microsoft Word, Powerpoint, Access, Autodesk Fusi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhiqiang03&layout=compact" />
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhiqiang03&" alt="Zhiqiang03" /></p>
-
+-->
   
 <!-- <h3 align="center">Feeding the snake with my contribution graph</h3> 
 
